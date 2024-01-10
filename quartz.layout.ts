@@ -47,15 +47,15 @@ export const defaultContentPageLayout: PageLayout = {
       links: [
         {
           name: "Blog Posts",
-          url:"/quartz/posts"
+          url:"/posts"
         },
         {
           name: "Projects",
-          url:"/quartz/projects"
+          url:"/projects"
         },
         {
           name: "Work Experience",
-          url:"/quartz/experience"
+          url:"/experience"
         },
       ]
     }),
