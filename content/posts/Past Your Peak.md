@@ -5,7 +5,7 @@ title: Past Your Peak
 tags: Unity, Game Jam
 ---
 
-![Alt Text](posts/images/pastyourpeak.png)
+![Alt Text](quartz/posts/images/pastyourpeak.png)
 
 *Past Your Peak* was made for the [Mountain Top Game Jam 2023](https://itch.io/jam/mountain-top-game-jam-2023), which was hosted by the SFU Game Development club. In fact, it was my first game jam that I did with a group of friends in a team of 6. It was a 24-hour long jam, and by the end of it, while our eyes were about to shut and our bodies felt like keeling over, we had a completed project we were proud of. 
 
