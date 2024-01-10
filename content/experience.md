@@ -1,9 +1,9 @@
 ---
-title: Experience
+title: Work Experience
 draft: false
 ---
 
-This page contains all my professional work experience and descriptions, sorted by most recent.
+This page contains all my professional work experience, sorted by most recent.
 
 Check out my [resume](files/Resume.pdf)!
 

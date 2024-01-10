@@ -1,10 +1,12 @@
 ---
 title: Home
 ---
-Hey there, I'm Bryan. This is my little place on the Internet where I show off my personal projects, professional experience, blog posts, and much more -- make yourself at home!
+Hi there! 
 
-I live in Vancouver BC, and am currently attending SFU as a Software Systems major (think of it as Computer Science, but with a higher focus on practical projects). I'm passionate about making fun stuff, whether that's games, tools for my TTRPG sessions, or just something that's plain cool.
+My name is Bryan, and this is my little place on the Internet where I show off my personal projects, professional experience, blog posts, and much more -- make yourself at home!
 
-### Not sure where to go?
+I live in Vancouver BC, and am currently attending SFU as a [Software Systems](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html) major (think of it as Computer Science, but with a higher focus on hands-on projects). I'm passionate about making fun stuff, whether that's games, tools for my TTRPG sessions, or just something that's plain cool.
 
-I'd recommend starting off with seeing my latest blog post on [x], or checking out some of my project listed here!  
+*Not sure where to look first?* Check out the site map on the right for links to:
+- My [blog posts](/posts), where I post my thoughts on experiences and projects.
+- My [projects](/projects), showcasing everything I've worked on.
