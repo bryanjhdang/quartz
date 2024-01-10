@@ -45,10 +45,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.NavList({
       title: "Site Map",
       links: [
-        {
-          name: "Blog Posts",
-          url:"/quartz/posts"
-        },
+        // {
+        //   name: "Blog Posts",
+        //   url:"/quartz/posts"
+        // },
         {
           name: "Projects",
           url:"/quartz/projects"
