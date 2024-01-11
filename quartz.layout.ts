@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/bryanjhdang",
       LinkedIn: "https://linkedin.com/in/bryanjhdang",
+      Email: "mailto:bda37@sfu.ca",
     },
   }),
 }
@@ -71,7 +72,7 @@ export const defaultContentPageLayout: PageLayout = {
         url: "https://www.linkedin.com/in/bryanjhdang"
        },
        {
-        name: "E-mail",
+        name: "Email",
         url: "mailto:bda37@sfu.ca"
        },
       ]
