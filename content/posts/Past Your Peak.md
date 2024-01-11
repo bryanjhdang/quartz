@@ -2,7 +2,7 @@
 date: 2024-01-10T12:00:00Z
 draft: false
 title: Past Your Peak
-tags: Project, Unity, Game Dev
+tags: Project, GameDev
 ---
 
 ![Alt Text](/posts/images/pastyourpeak.png)
