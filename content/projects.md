@@ -11,8 +11,6 @@ Here are my projects! Feel free to click on each one for an in-depth blog post a
 
 > **[Past Your Peak](posts/Past%20Your%20Peak.md)** -- [Link](https://bryd.itch.io/past-your-peak) -- *July 2023*    
 > A reverse rogue-like game where you lose powers over time made using Unity for the Monutain Top Game Jam 2023. Winner of *The Creativity Award*.   
-> ![[posts/images/pastyourpeak.png|120x100]]
-
 
 <!-- 
 Template
