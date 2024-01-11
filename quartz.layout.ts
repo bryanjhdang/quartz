@@ -70,6 +70,10 @@ export const defaultContentPageLayout: PageLayout = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/bryanjhdang"
        },
+       {
+        name: "E-mail",
+        url: "mailto:bda37@sfu.ca"
+       },
       ]
     }),
   ],
