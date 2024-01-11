@@ -9,4 +9,4 @@ I live in Vancouver BC, and am currently attending SFU as a [Software Systems](h
 
 *Not sure where to look first?* Check out:
 - My [blog posts](/posts/), where I post my thoughts on experiences and projects.
-- My [projects](/projects/), showcasing everything I've worked on.
+- My [projects](/projects), showcasing everything I've worked on.

@@ -51,11 +51,11 @@ export const defaultContentPageLayout: PageLayout = {
         },
         {
           name: "Projects",
-          url:"/quartz/projects/"
+          url:"/quartz/projects"
         },
         {
           name: "Work Experience",
-          url:"/quartz/experience/"
+          url:"/quartz/experience"
         },
       ]
     }),
